@@ -2,5 +2,6 @@
 test de git hub
 de ce jour
 
+Je le modifie de nouveau pour comprendre comment celà fonctionne.
 
-Je le modifie pour comprendre comment celà focntionne.
+Ajout dans la modif 02
